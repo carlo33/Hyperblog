@@ -7,3 +7,6 @@ y quiere vivir en españa
 estoy volviendo hacer algunas pruebas
 estoy probando del github
 probando los stash y cherry
+probando los stash y cherry
+incluye ejemplos para mac y windows
+es de muy alta calidad.
